@@ -29,7 +29,7 @@ Explanation: 3+2+1 = 6
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-14T18:29:11.387Z  
+**Submitted:** 2026-10-14T18:29:54.092Z  
 
 ```java
 class Solution {

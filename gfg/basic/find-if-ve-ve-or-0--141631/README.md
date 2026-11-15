@@ -37,7 +37,7 @@ Explanation: Since the number is equal to 0, print "Zero".
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-15T18:07:48.104Z  
+**Submitted:** 2026-11-15T18:28:42.269Z  
 
 ```java
 import java.util.Scanner;

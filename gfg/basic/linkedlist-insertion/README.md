@@ -25,7 +25,7 @@ Explanation: Simply insert into LL and return it.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-18T14:36:20.120Z  
+**Submitted:** 2026-11-18T14:36:24.534Z  
 
 ```java
 class Solution {

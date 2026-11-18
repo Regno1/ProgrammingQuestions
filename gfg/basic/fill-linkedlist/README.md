@@ -55,7 +55,7 @@ size(): The list contains zero elements, so return 0.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-18T16:33:33.313Z  
+**Submitted:** 2026-11-18T16:33:40.737Z  
 
 ```java
 class Solution {
